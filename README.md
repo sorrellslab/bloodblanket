@@ -5,7 +5,8 @@ Spruha Rami*, Michelle So*, Cassandra Travis*, Yaoyu Jiao, Paul Shamble, Trevor 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the official code and data analysis for the following publication:
+This repository contains the official code and data analysis for the following publication: 
+https://www.biorxiv.org/content/10.64898/2026.03.15.711871v1
 ---
 
 ## Overview
